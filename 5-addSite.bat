@@ -1,0 +1,25 @@
+appcmd add site /name:AdministrativeBuilding /id:5 /physicalPath:C:\inetpub\wwwroot\AdministrativeBuilding /bindings:http/*:1005:localhost
+appcmd add site /name:AdministrativeBuildingAPI /id:5 /physicalPath:C:\inetpub\wwwroot\AdministrativeBuildingAPI /bindings:http/*:1005:localhost
+appcmd add site /name:AlAzharyBuilding /id:5 /physicalPath:C:\inetpub\wwwroot\AlAzharyBuilding /bindings:http/*:1005:localhost
+appcmd add site /name:AlAzharyBuildingAPI /id:5 /physicalPath:C:\inetpub\wwwroot\AlAzharyBuildingAPI /bindings:http/*:1005:localhost
+appcmd add site /name:Educationalbuildings /id:5 /physicalPath:C:\inetpub\wwwroot\Educationalbuildings /bindings:http/*:1005:localhost
+appcmd add site /name:EducationalbuildingsAPI /id:5 /physicalPath:C:\inetpub\wwwroot\EducationalbuildingsAPI /bindings:http/*:1005:localhost
+appcmd add site /name:EducationalStudy /id:5 /physicalPath:C:\inetpub\wwwroot\EducationalStudy /bindings:http/*:1005:localhost
+appcmd add site /name:EducationalStudyAPI /id:5 /physicalPath:C:\inetpub\wwwroot\EducationalStudyAPI /bindings:http/*:1005:localhost
+appcmd add site /name:FilesApi /id:5 /physicalPath:C:\inetpub\wwwroot\FilesApi /bindings:http/*:1005:localhost
+appcmd add site /name:Gateway /id:5 /physicalPath:C:\inetpub\wwwroot\Gateway /bindings:http/*:1005:localhost
+appcmd add site /name:HC /id:5 /physicalPath:C:\inetpub\wwwroot\HC /bindings:http/*:1005:localhost
+appcmd add site /name:HealthyUnit /id:5 /physicalPath:C:\inetpub\wwwroot\HealthyUnit /bindings:http/*:1005:localhost
+appcmd add site /name:HealthyUnitAPI /id:5 /physicalPath:C:\inetpub\wwwroot\HealthyUnitAPI /bindings:http/*:1005:localhost
+appcmd add site /name:Land /id:5 /physicalPath:C:\inetpub\wwwroot\Land /bindings:http/*:1005:localhost
+appcmd add site /name:LandAPI /id:5 /physicalPath:C:\inetpub\wwwroot\LandAPI /bindings:http/*:1005:localhost
+appcmd add site /name:linkAuthorityMinistryPro /id:5 /physicalPath:C:\inetpub\wwwroot\linkAuthorityMinistryPro /bindings:http/*:1005:localhost
+appcmd add site /name:linkAuthorityMinistryProAPI /id:5 /physicalPath:C:\inetpub\wwwroot\linkAuthorityMinistryProAPI /bindings:http/*:1005:localhost
+appcmd add site /name:LookUpProject /id:5 /physicalPath:C:\inetpub\wwwroot\LookUpProject /bindings:http/*:1005:localhost
+appcmd add site /name:NurseriesKindergartenProgram /id:5 /physicalPath:C:\inetpub\wwwroot\NurseriesKindergartenProgram /bindings:http/*:1005:localhost
+appcmd add site /name:NurseriesKindergartenProgramAPI /id:5 /physicalPath:C:\inetpub\wwwroot\NurseriesKindergartenProgramAPI /bindings:http/*:1005:localhost
+appcmd add site /name:PostOffice /id:5 /physicalPath:C:\inetpub\wwwroot\PostOffice /bindings:http/*:1005:localhost
+appcmd add site /name:PostOfficeAPI /id:5 /physicalPath:C:\inetpub\wwwroot\PostOfficeAPI /bindings:http/*:1005:localhost
+appcmd add site /name:YouthCenter /id:5 /physicalPath:C:\inetpub\wwwroot\YouthCenter /bindings:http/*:1005:localhost
+appcmd add site /name:YouthCenterAPI /id:5 /physicalPath:C:\inetpub\wwwroot\YouthCenterAPI /bindings:http/*:1005:localhost
+

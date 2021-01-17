@@ -1,0 +1,25 @@
+APPCMD set app "AdministrativeBuilding/" /applicationPool:AdministrativeBuilding
+APPCMD set app "AdministrativeBuildingAPI/" /applicationPool:AdministrativeBuildingAPI
+APPCMD set app "AlAzharyBuilding/" /applicationPool:AlAzharyBuilding
+APPCMD set app "AlAzharyBuildingAPI/" /applicationPool:AlAzharyBuildingAPI
+APPCMD set app "Educationalbuildings/" /applicationPool:Educationalbuildings
+APPCMD set app "EducationalbuildingsAPI/" /applicationPool:EducationalbuildingsAPI
+APPCMD set app "EducationalStudy/" /applicationPool:EducationalStudy
+APPCMD set app "EducationalStudyAPI/" /applicationPool:EducationalStudyAPI
+APPCMD set app "FilesApi/" /applicationPool:FilesApi
+APPCMD set app "Gateway/" /applicationPool:Gateway
+APPCMD set app "HC/" /applicationPool:HC
+APPCMD set app "HealthyUnit/" /applicationPool:HealthyUnit
+APPCMD set app "HealthyUnitAPI/" /applicationPool:HealthyUnitAPI
+APPCMD set app "Land/" /applicationPool:Land
+APPCMD set app "LandAPI/" /applicationPool:LandAPI
+APPCMD set app "linkAuthorityMinistryPro/" /applicationPool:linkAuthorityMinistryPro
+APPCMD set app "linkAuthorityMinistryProAPI/" /applicationPool:linkAuthorityMinistryProAPI
+APPCMD set app "LookUpProject/" /applicationPool:LookUpProject
+APPCMD set app "NurseriesKindergartenProgram/" /applicationPool:NurseriesKindergartenProgram
+APPCMD set app "NurseriesKindergartenProgramAPI/" /applicationPool:NurseriesKindergartenProgramAPI
+APPCMD set app "PostOffice/" /applicationPool:PostOffice
+APPCMD set app "PostOfficeAPI/" /applicationPool:PostOfficeAPI
+APPCMD set app "YouthCenter/" /applicationPool:YouthCenter
+APPCMD set app "YouthCenterAPI/" /applicationPool:YouthCenterAPI
+

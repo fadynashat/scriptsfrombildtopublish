@@ -1,0 +1,25 @@
+APPCMD set apppool "AdministrativeBuilding" -processModel.identityType:NetworkService
+APPCMD set apppool "AdministrativeBuildingAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "AlAzharyBuilding" -processModel.identityType:NetworkService
+APPCMD set apppool "AlAzharyBuildingAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "Educationalbuildings" -processModel.identityType:NetworkService
+APPCMD set apppool "EducationalbuildingsAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "EducationalStudy" -processModel.identityType:NetworkService
+APPCMD set apppool "EducationalStudyAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "FilesApi" -processModel.identityType:NetworkService
+APPCMD set apppool "Gateway" -processModel.identityType:NetworkService
+APPCMD set apppool "HC" -processModel.identityType:NetworkService
+APPCMD set apppool "HealthyUnit" -processModel.identityType:NetworkService
+APPCMD set apppool "HealthyUnitAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "Land" -processModel.identityType:NetworkService
+APPCMD set apppool "LandAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "linkAuthorityMinistryPro" -processModel.identityType:NetworkService
+APPCMD set apppool "linkAuthorityMinistryProAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "LookUpProject" -processModel.identityType:NetworkService
+APPCMD set apppool "NurseriesKindergartenProgram" -processModel.identityType:NetworkService
+APPCMD set apppool "NurseriesKindergartenProgramAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "PostOffice" -processModel.identityType:NetworkService
+APPCMD set apppool "PostOfficeAPI" -processModel.identityType:NetworkService
+APPCMD set apppool "YouthCenter" -processModel.identityType:NetworkService
+APPCMD set apppool "YouthCenterAPI" -processModel.identityType:NetworkService
+

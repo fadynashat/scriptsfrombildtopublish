@@ -1,0 +1,25 @@
+APPCMD set apppool "AdministrativeBuilding" -managedRuntimeVersion:
+APPCMD set apppool "AdministrativeBuildingAPI" -managedRuntimeVersion:
+APPCMD set apppool "AlAzharyBuilding" -managedRuntimeVersion:
+APPCMD set apppool "AlAzharyBuildingAPI" -managedRuntimeVersion:
+APPCMD set apppool "Educationalbuildings" -managedRuntimeVersion:
+APPCMD set apppool "EducationalbuildingsAPI" -managedRuntimeVersion:
+APPCMD set apppool "EducationalStudy" -managedRuntimeVersion:
+APPCMD set apppool "EducationalStudyAPI" -managedRuntimeVersion:
+APPCMD set apppool "FilesApi" -managedRuntimeVersion:
+APPCMD set apppool "Gateway" -managedRuntimeVersion:
+APPCMD set apppool "HC" -managedRuntimeVersion:
+APPCMD set apppool "HealthyUnit" -managedRuntimeVersion:
+APPCMD set apppool "HealthyUnitAPI" -managedRuntimeVersion:
+APPCMD set apppool "Land" -managedRuntimeVersion:
+APPCMD set apppool "LandAPI" -managedRuntimeVersion:
+APPCMD set apppool "linkAuthorityMinistryPro" -managedRuntimeVersion:
+APPCMD set apppool "linkAuthorityMinistryProAPI" -managedRuntimeVersion:
+APPCMD set apppool "LookUpProject" -managedRuntimeVersion:
+APPCMD set apppool "NurseriesKindergartenProgram" -managedRuntimeVersion:
+APPCMD set apppool "NurseriesKindergartenProgramAPI" -managedRuntimeVersion:
+APPCMD set apppool "PostOffice" -managedRuntimeVersion:
+APPCMD set apppool "PostOfficeAPI" -managedRuntimeVersion:
+APPCMD set apppool "YouthCenter" -managedRuntimeVersion:
+APPCMD set apppool "YouthCenterAPI" -managedRuntimeVersion:
+

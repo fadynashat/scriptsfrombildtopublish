@@ -1,0 +1,25 @@
+APPCMD set apppool "AdministrativeBuilding" -processModel.loadUserProfile:False
+APPCMD set apppool "AdministrativeBuildingAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "AlAzharyBuilding" -processModel.loadUserProfile:False
+APPCMD set apppool "AlAzharyBuildingAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "Educationalbuildings" -processModel.loadUserProfile:False
+APPCMD set apppool "EducationalbuildingsAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "EducationalStudy" -processModel.loadUserProfile:False
+APPCMD set apppool "EducationalStudyAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "FilesApi" -processModel.loadUserProfile:False
+APPCMD set apppool "Gateway" -processModel.loadUserProfile:False
+APPCMD set apppool "HC" -processModel.loadUserProfile:False
+APPCMD set apppool "HealthyUnit" -processModel.loadUserProfile:False
+APPCMD set apppool "HealthyUnitAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "Land" -processModel.loadUserProfile:False
+APPCMD set apppool "LandAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "linkAuthorityMinistryPro" -processModel.loadUserProfile:False
+APPCMD set apppool "linkAuthorityMinistryProAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "LookUpProject" -processModel.loadUserProfile:False
+APPCMD set apppool "NurseriesKindergartenProgram" -processModel.loadUserProfile:False
+APPCMD set apppool "NurseriesKindergartenProgramAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "PostOffice" -processModel.loadUserProfile:False
+APPCMD set apppool "PostOfficeAPI" -processModel.loadUserProfile:False
+APPCMD set apppool "YouthCenter" -processModel.loadUserProfile:False
+APPCMD set apppool "YouthCenterAPI" -processModel.loadUserProfile:False
+
